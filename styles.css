@@ -24,6 +24,12 @@ h2 {
     color: #007BFF;
     margin-bottom: 20px;
 }
+.places{
+    color: black;
+  font-weight: 600;
+  font-size: 20px;
+  color: #777;
+}
 
 label {
     display: block;
